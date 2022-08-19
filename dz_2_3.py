@@ -4,5 +4,4 @@ def chain_sum(value: int = None):
         chain_sum.result = 0
         return result
     chain_sum.result = value + result
-
     return chain_sum
