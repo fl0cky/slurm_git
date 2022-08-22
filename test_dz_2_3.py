@@ -6,4 +6,5 @@ def test_chain():
     assert chain_sum(5)()
     assert chain_sum(20)()
 
+
 test_chain()
